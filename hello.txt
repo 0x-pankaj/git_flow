@@ -1,3 +1,5 @@
 hello from bug branch 
 # hello bug :) 
 # edided in github directly
+
+# fetched in local environment successfully (git pull origin bug)
