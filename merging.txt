@@ -1,0 +1,2 @@
+file to test merging and how merge work in git
+
